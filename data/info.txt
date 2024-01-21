@@ -1,9 +1,13 @@
 About Dataset
 Introduction:
-The "Cryptocurrency Price Analysis Dataset: BTC, ETH, XRP, LTC (2018-2023)" is a comprehensive dataset that captures the daily price movements of six popular cryptocurrencies. It covers a period from January 1, 2018, to May 31, 2023, providing a valuable resource for researchers, analysts, and enthusiasts interested in studying the historical price behavior of these digital assets.
+The "Cryptocurrency Price Analysis Dataset: BTC, ETH, XRP, LTC (2018-2023)" is a comprehensive dataset that captures the
+daily price movements of six popular cryptocurrencies.
+It covers a period from January 1, 2018, to May 31, 2023, providing a valuable resource for researchers, analysts, and 
+enthusiasts interested in studying the historical price behavior of these digital assets.
 
 Description:
-This dataset contains a wealth of information for six major cryptocurrencies: Bitcoin (BTC), Ethereum (ETH), Ripple (XRP), and Litecoin (LTC). The data spans a time frame of over five years, enabling users to explore long-term trends, analyze volatility patterns, and gain insights into market dynamics.
+This dataset contains a wealth of information for six major cryptocurrencies: Bitcoin (BTC), Ethereum (ETH), Ripple (XRP), and Litecoin (LTC).
+ The data spans a time frame of over five years, enabling users to explore long-term trends, analyze volatility patterns, and gain insights into market dynamics.
 
 Columns:
 
