@@ -1,0 +1,13 @@
+Content
+The dataset has one csv file for each of the top 50 crypto coins by Market Capitalization.
+
+Price history is available on a daily basis from Jan 1, 2015.
+
+Column Information
+date : date of observation - the price is taken at 00:00:00 hours
+price : Price at the given date and time
+total_volume : volume of transactions on the given day
+market_cap : Market capitalization in USD
+Acknowledgements
+This data is taken from CoinGecko API and so please check with their terms of usage for using it in your projects.
+
